@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RahulWagh619/leetcode_question/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RahulWagh619/leetcode_question/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RahulWagh619/leetcode_question/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RahulWagh619/leetcode_question/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RahulWagh619/leetcode_question/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
