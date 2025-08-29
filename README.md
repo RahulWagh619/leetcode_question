@@ -97,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahulWagh619/leetcode_question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahulWagh619/leetcode_question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahulWagh619/leetcode_question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
