@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
 | [0435-non-overlapping-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RahulWagh619/leetcode_question/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/RahulWagh619/leetcode_question/tree/master/0890-lemonade-change) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RahulWagh619/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
 | [0508-most-frequent-subtree-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/RahulWagh619/leetcode_question/tree/master/0768-partition-labels) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
