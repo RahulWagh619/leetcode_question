@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RahulWagh619/leetcode_question/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RahulWagh619/leetcode_question/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RahulWagh619/leetcode_question/tree/master/3748-sort-matrix-by-diagonals) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 ## Dynamic Programming
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
 |  |
 | ------- |
