@@ -1,22 +1,17 @@
 class Solution {
 public:
     int minOperations(string s) {
-        vector<int>ans(26);
-        for(int i=0;i<s.length();i++){
-            int ch=s[i]-'a';
-            ans[ch]++;
-        }
-        if(ans[0]==s.length()){
-            return 0;
-        }
-        // cout<<ans[1]<<endl;
+        sort(s.begin(),s.end());
         int val=-1;
-        for(int i=1;i<26;i++){
-           if(ans[i]>0){
-             val=(26-i);
-             break;
-           }
+        for(int i=0;i<s.length();i++){
+            if(s[i]=='a')continue;
+            else{
+                int z=s[i]-'a';
+                val=26-z;
+                break;
+            }
         }
-        return val;
+        if(val==-1)return 0;
+        else return val;
     }
 };
