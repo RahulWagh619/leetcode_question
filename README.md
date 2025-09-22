@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulWagh619/leetcode_question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/RahulWagh619/leetcode_question/tree/master/0768-partition-labels) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
