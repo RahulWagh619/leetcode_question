@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
+| [0120-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0120-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RahulWagh619/leetcode_question/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RahulWagh619/leetcode_question/tree/master/0455-assign-cookies) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0120-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/0435-non-overlapping-intervals) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RahulWagh619/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulWagh619/leetcode_question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
