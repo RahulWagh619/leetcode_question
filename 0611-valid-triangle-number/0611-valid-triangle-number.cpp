@@ -10,7 +10,7 @@ public:
             for(int j=i+1;j<nums.size()-1;j++){
                 long long sum=nums[i]+nums[j];
                 auto it=lower_bound(nums.begin()+j+1,nums.end(),sum);
-                ans += distance(nums.begin() + j + 1, it);
+                ans += it-(nums.begin() + j + 1);
             }
         }
         return ans;
