@@ -7,19 +7,19 @@ void dfs(vector<vector<int>>& image, int sr, int sc, int color,vector<int>&vis,i
         int y=sc;
         image[x][y]=color;
         vis[(x*m)+y]=1;
-            if(x-1>=0 && image[x-1][y]==val && vis[(x-1)*m+y]==0){
-                dfs(image,x-1,y,color,vis,val);
+        int dr[4] = { -1, +1,  0,  0 };
+        int dc[4] = {  0,  0, -1, +1 };
+        for(int i=0;i<4;i++){
+            int nx = x + dr[i];
+            int ny = y + dc[i];
+            int idx = nx * m + ny;
+            
+            if (nx >= 0 && nx < n && ny >= 0 && ny < m
+                && !vis[idx]
+                && image[nx][ny] == val) {
+                dfs(image, nx, ny, color, vis, val);
             }
-            if(x+1<n && image[x+1][y]==val && vis[(x+1)*m+y]==0){
-                dfs(image,x+1,y,color,vis,val);
-            }
-            if(y-1>=0 && image[x][y-1]==val && vis[(x)*m+y-1]==0){
-                 dfs(image,x,y-1,color,vis,val);
-
-            }
-            if(y+1<m && image[x][y+1]==val && vis[(x)*m+y+1]==0){
-                dfs(image,x,y+1,color,vis,val);
-            }
+        }
 
 }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
