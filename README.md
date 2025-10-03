@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RahulWagh619/leetcode_question/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RahulWagh619/leetcode_question/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/RahulWagh619/leetcode_question/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/RahulWagh619/leetcode_question/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/RahulWagh619/leetcode_question/tree/master/0830-largest-triangle-area) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0120-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RahulWagh619/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulWagh619/leetcode_question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RahulWagh619/leetcode_question/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/RahulWagh619/leetcode_question/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/RahulWagh619/leetcode_question/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/RahulWagh619/leetcode_question/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/RahulWagh619/leetcode_question/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahulWagh619/leetcode_question/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RahulWagh619/leetcode_question/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/RahulWagh619/leetcode_question/tree/master/0733-flood-fill) |
