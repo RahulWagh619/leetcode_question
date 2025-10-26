@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
+| [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RahulWagh619/leetcode_question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/RahulWagh619/leetcode_question/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulWagh619/leetcode_question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RahulWagh619/leetcode_question/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RahulWagh619/leetcode_question/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
+| [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/RahulWagh619/leetcode_question/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RahulWagh619/leetcode_question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RahulWagh619/leetcode_question/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/3336-water-bottles-ii) |
