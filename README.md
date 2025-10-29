@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulWagh619/leetcode_question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RahulWagh619/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RahulWagh619/leetcode_question/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulWagh619/leetcode_question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulWagh619/leetcode_question/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RahulWagh619/leetcode_question/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RahulWagh619/leetcode_question/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/RahulWagh619/leetcode_question/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulWagh619/leetcode_question/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RahulWagh619/leetcode_question/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulWagh619/leetcode_question/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
@@ -416,5 +418,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulWagh619/leetcode_question/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RahulWagh619/leetcode_question/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulWagh619/leetcode_question/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
