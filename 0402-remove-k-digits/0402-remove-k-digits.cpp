@@ -4,46 +4,23 @@ public:
         if(k==num.length()){
             return "0";
         }
-        stack<int>st;
-        st.push(num[0]-'0');
-        for(int i=1;i<num.length();i++){
-            if(st.empty()){
-                st.push(num[i]-'0');
+        stack<int>st;;
+        for(int i=0;i<num.length();i++){
+            while(!st.empty() && num[i]<st.top() && k>0){
+                st.pop();
+                k--;
             }
-            else{
-                int curr=num[i]-'0';
-                if(st.top()<=curr){
-                    st.push(curr);
-                }
-                else{
-                    while(!st.empty() && st.top()>curr && k>0){
-                        st.pop();
-                        k--;
-                    }
-                    st.push(curr);
-                }
-                
-            }
+                st.push(num[i]);
         }
-        while(k>0){
-            st.pop();
-            k--;
-        }
-        string z="";
+        string s;
         while(!st.empty()){
-            z+=st.top()+'0';
+            s+=st.top();
             st.pop();
         }
-        reverse(z.begin(),z.end());
-        if(z.length()==0){
-            return "0";
-        }
+        reverse(s.begin(),s.end());
         int idx=-1;
-        for(int i=0;i<z.length();i++){
-            if(z[i]=='0'){
-                continue;
-            }
-            else{
+        for(int i=0;i<s.length();i++){
+            if(s[i]!='0'){
                 idx=i;
                 break;
             }
@@ -51,7 +28,13 @@ public:
         if(idx==-1){
             return "0";
         }
-        int left=z.length()-idx;
-        return z.substr(idx,left);
+        s=s.substr(idx);
+        int val=s.length()-k;
+        if(val<=0){
+            return "0";
+        }
+        s=s.substr(0,val);
+        if(s.length()==0)return "0";
+        return s;
     }
 };
