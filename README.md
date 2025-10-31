@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RahulWagh619/leetcode_question/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RahulWagh619/leetcode_question/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/RahulWagh619/leetcode_question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RahulWagh619/leetcode_question/tree/master/0200-number-of-islands) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0410-split-array-largest-sum) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RahulWagh619/leetcode_question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RahulWagh619/leetcode_question/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RahulWagh619/leetcode_question/tree/master/0417-pacific-atlantic-water-flow) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RahulWagh619/leetcode_question/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/RahulWagh619/leetcode_question/tree/master/0402-remove-k-digits) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 ## Greedy
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RahulWagh619/leetcode_question/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/RahulWagh619/leetcode_question/tree/master/0402-remove-k-digits) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 ## String
