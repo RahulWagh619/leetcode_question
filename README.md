@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
+| [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
+| [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
 ## Monotonic Stack
 |  |
 | ------- |
