@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RahulWagh619/leetcode_question/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RahulWagh619/leetcode_question/tree/master/3748-sort-matrix-by-diagonals) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/2887-sort-vowels-in-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RahulWagh619/leetcode_question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RahulWagh619/leetcode_question/tree/master/3748-sort-matrix-by-diagonals) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -471,4 +474,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulWagh619/leetcode_question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RahulWagh619/leetcode_question/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulWagh619/leetcode_question/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
