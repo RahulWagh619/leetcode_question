@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/RahulWagh619/leetcode_question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RahulWagh619/leetcode_question/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RahulWagh619/leetcode_question/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RahulWagh619/leetcode_question/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RahulWagh619/leetcode_question/tree/master/3074-apple-redistribution-into-boxes) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/RahulWagh619/leetcode_question/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 | [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RahulWagh619/leetcode_question/tree/master/3074-apple-redistribution-into-boxes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RahulWagh619/leetcode_question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/RahulWagh619/leetcode_question/tree/master/3531-count-covered-buildings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RahulWagh619/leetcode_question/tree/master/3748-sort-matrix-by-diagonals) |
