@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/RahulWagh619/leetcode_question/tree/master/0687-longest-univalue-path) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/RahulWagh619/leetcode_question/tree/master/0687-longest-univalue-path) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/RahulWagh619/leetcode_question/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/RahulWagh619/leetcode_question/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/RahulWagh619/leetcode_question/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
 ## Linked List
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/RahulWagh619/leetcode_question/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/RahulWagh619/leetcode_question/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/RahulWagh619/leetcode_question/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
 ## Design
 |  |
