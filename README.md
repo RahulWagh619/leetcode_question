@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulWagh619/leetcode_question/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
+| [0055-jump-game](https://github.com/RahulWagh619/leetcode_question/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RahulWagh619/leetcode_question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0120-triangle) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RahulWagh619/leetcode_question/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0120-triangle) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulWagh619/leetcode_question/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RahulWagh619/leetcode_question/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/RahulWagh619/leetcode_question/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/0435-non-overlapping-intervals) |
