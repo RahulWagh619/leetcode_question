@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RahulWagh619/leetcode_question/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulWagh619/leetcode_question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RahulWagh619/leetcode_question/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/RahulWagh619/leetcode_question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RahulWagh619/leetcode_question/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RahulWagh619/leetcode_question/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RahulWagh619/leetcode_question/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/RahulWagh619/leetcode_question/tree/master/0402-remove-k-digits) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RahulWagh619/leetcode_question/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/RahulWagh619/leetcode_question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 ## Greedy
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
 | [0721-accounts-merge](https://github.com/RahulWagh619/leetcode_question/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/RahulWagh619/leetcode_question/tree/master/0768-partition-labels) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/RahulWagh619/leetcode_question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RahulWagh619/leetcode_question/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RahulWagh619/leetcode_question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RahulWagh619/leetcode_question/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
