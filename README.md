@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/RahulWagh619/leetcode_question/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
+| [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 | [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
 ## Dynamic Programming
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3462-vowels-game-in-a-string) |
+| [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 ## Enumeration
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3462-vowels-game-in-a-string) |
+| [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 ## Counting
 |  |
 | ------- |
