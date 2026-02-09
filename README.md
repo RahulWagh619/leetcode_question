@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/RahulWagh619/leetcode_question/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/RahulWagh619/leetcode_question/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/1018-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RahulWagh619/leetcode_question/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RahulWagh619/leetcode_question/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/RahulWagh619/leetcode_question/tree/master/0687-longest-univalue-path) |
+| [1382-balance-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/RahulWagh619/leetcode_question/tree/master/0687-longest-univalue-path) |
+| [1382-balance-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulWagh619/leetcode_question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/RahulWagh619/leetcode_question/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/RahulWagh619/leetcode_question/tree/master/1073-number-of-enclaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/RahulWagh619/leetcode_question/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Quickselect
 |  |
