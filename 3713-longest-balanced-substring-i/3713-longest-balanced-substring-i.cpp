@@ -2,23 +2,20 @@ class Solution {
 public:
     int longestBalanced(string s) {
         int ans=0;
-        for(int i=0;i<s.length();i++){
+        int n=s.length();
+        for(int i=0;i<n;i++){
             map<char,int>mpp;
-            string k;
-            for(int j=i;j<s.length();j++){
-                  k+=s[j];
-                  mpp[s[j]]++;
-                  int z=mpp[s[j]];
-                  bool found=true;
-                  for(auto &i:mpp){
-                      if(i.second!=z){
-                        found=false;
-                        break;
-                      }
-                  }
-                  if(found){
-                    ans=max(ans,j-i+1);
-                  }
+            for(int j=i;j<n;j++){
+                mpp[s[j]]++;
+            int mini=INT_MAX;
+            int maxi=INT_MIN;
+            for(auto &z:mpp){
+                mini=min(mini,z.second);
+                maxi=max(maxi,z.second);
+            }
+            if(mini==maxi){
+                ans=max(ans,j-i+1);
+            }
             }
         }
         return ans;
