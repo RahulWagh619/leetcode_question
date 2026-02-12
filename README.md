@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/RahulWagh619/leetcode_question/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3462-vowels-game-in-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RahulWagh619/leetcode_question/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3905-partition-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3905-partition-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/RahulWagh619/leetcode_question/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RahulWagh619/leetcode_question/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3713-longest-balanced-substring-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RahulWagh619/leetcode_question/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RahulWagh619/leetcode_question/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3713-longest-balanced-substring-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
 | ------- |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/RahulWagh619/leetcode_question/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RahulWagh619/leetcode_question/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3713-longest-balanced-substring-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
 ## Geometry
 |  |
 | ------- |
