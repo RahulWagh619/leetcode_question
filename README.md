@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/0190-reverse-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RahulWagh619/leetcode_question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
