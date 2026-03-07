@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/RahulWagh619/leetcode_question/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/RahulWagh619/leetcode_question/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/RahulWagh619/leetcode_question/tree/master/0890-lemonade-change) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RahulWagh619/leetcode_question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RahulWagh619/leetcode_question/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/RahulWagh619/leetcode_question/tree/master/1036-rotting-oranges) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/RahulWagh619/leetcode_question/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/RahulWagh619/leetcode_question/tree/master/0768-partition-labels) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RahulWagh619/leetcode_question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RahulWagh619/leetcode_question/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulWagh619/leetcode_question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0410-split-array-largest-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RahulWagh619/leetcode_question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/RahulWagh619/leetcode_question/tree/master/1206-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RahulWagh619/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
