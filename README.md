@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/RahulWagh619/leetcode_question/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RahulWagh619/leetcode_question/tree/master/0166-fraction-to-recurring-decimal) |
 | [0402-remove-k-digits](https://github.com/RahulWagh619/leetcode_question/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulWagh619/leetcode_question/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
 | [0721-accounts-merge](https://github.com/RahulWagh619/leetcode_question/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/RahulWagh619/leetcode_question/tree/master/0768-partition-labels) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/RahulWagh619/leetcode_question/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/RahulWagh619/leetcode_question/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RahulWagh619/leetcode_question/tree/master/0166-fraction-to-recurring-decimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulWagh619/leetcode_question/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/RahulWagh619/leetcode_question/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/RahulWagh619/leetcode_question/tree/master/0721-accounts-merge) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulWagh619/leetcode_question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RahulWagh619/leetcode_question/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/RahulWagh619/leetcode_question/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/RahulWagh619/leetcode_question/tree/master/0424-longest-repeating-character-replacement) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RahulWagh619/leetcode_question/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulWagh619/leetcode_question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulWagh619/leetcode_question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
