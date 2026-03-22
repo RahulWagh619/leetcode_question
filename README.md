@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 | [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
 ## Dynamic Programming
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RahulWagh619/leetcode_question/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Stack
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RahulWagh619/leetcode_question/tree/master/3074-apple-redistribution-into-boxes) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/RahulWagh619/leetcode_question/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 | [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
 ## Monotonic Stack
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Brainteaser
 |  |
 | ------- |
