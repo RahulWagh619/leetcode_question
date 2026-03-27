@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/RahulWagh619/leetcode_question/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RahulWagh619/leetcode_question/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RahulWagh619/leetcode_question/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RahulWagh619/leetcode_question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RahulWagh619/leetcode_question/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RahulWagh619/leetcode_question/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2906-construct-product-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RahulWagh619/leetcode_question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RahulWagh619/leetcode_question/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RahulWagh619/leetcode_question/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RahulWagh619/leetcode_question/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RahulWagh619/leetcode_question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RahulWagh619/leetcode_question/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/RahulWagh619/leetcode_question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RahulWagh619/leetcode_question/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RahulWagh619/leetcode_question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/3336-water-bottles-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3616-make-array-elements-equal-to-zero) |
