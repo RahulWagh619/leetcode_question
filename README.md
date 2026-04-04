@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RahulWagh619/leetcode_question/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RahulWagh619/leetcode_question/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RahulWagh619/leetcode_question/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/RahulWagh619/leetcode_question/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RahulWagh619/leetcode_question/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RahulWagh619/leetcode_question/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RahulWagh619/leetcode_question/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/RahulWagh619/leetcode_question/tree/master/1642-water-bottles) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/RahulWagh619/leetcode_question/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RahulWagh619/leetcode_question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/2343-count-unguarded-cells-in-the-grid) |
