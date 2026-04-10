@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RahulWagh619/leetcode_question/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/RahulWagh619/leetcode_question/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RahulWagh619/leetcode_question/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RahulWagh619/leetcode_question/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3905-partition-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3905-partition-string) |
