@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/RahulWagh619/leetcode_question/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RahulWagh619/leetcode_question/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/RahulWagh619/leetcode_question/tree/master/3748-sort-matrix-by-diagonals) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/RahulWagh619/leetcode_question/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RahulWagh619/leetcode_question/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RahulWagh619/leetcode_question/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RahulWagh619/leetcode_question/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3905-partition-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3905-partition-string) |
 ## Tree
