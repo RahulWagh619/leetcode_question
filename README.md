@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/RahulWagh619/leetcode_question/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RahulWagh619/leetcode_question/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/RahulWagh619/leetcode_question/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search
 |  |
