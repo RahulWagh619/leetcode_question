@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/RahulWagh619/leetcode_question/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulWagh619/leetcode_question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/RahulWagh619/leetcode_question/tree/master/1073-number-of-enclaves) |
+| [1094-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/RahulWagh619/leetcode_question/tree/master/1206-corporate-flight-bookings) |
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/RahulWagh619/leetcode_question/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/RahulWagh619/leetcode_question/tree/master/0721-accounts-merge) |
 | [1018-largest-perimeter-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/1018-largest-perimeter-triangle) |
+| [1094-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RahulWagh619/leetcode_question/tree/master/0239-sliding-window-maximum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulWagh619/leetcode_question/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1094-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/RahulWagh619/leetcode_question/tree/master/1642-water-bottles) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/RahulWagh619/leetcode_question/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0410-split-array-largest-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RahulWagh619/leetcode_question/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/RahulWagh619/leetcode_question/tree/master/1206-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RahulWagh619/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
