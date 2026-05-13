@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RahulWagh619/leetcode_question/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1854-maximum-population-year](https://github.com/RahulWagh619/leetcode_question/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/RahulWagh619/leetcode_question/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/RahulWagh619/leetcode_question/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/RahulWagh619/leetcode_question/tree/master/1206-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RahulWagh619/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulWagh619/leetcode_question/tree/master/1370-count-number-of-nice-subarrays) |
+| [1854-maximum-population-year](https://github.com/RahulWagh619/leetcode_question/tree/master/1854-maximum-population-year) |
 | [1895-largest-magic-square](https://github.com/RahulWagh619/leetcode_question/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RahulWagh619/leetcode_question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RahulWagh619/leetcode_question/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/RahulWagh619/leetcode_question/tree/master/1034-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1854-maximum-population-year](https://github.com/RahulWagh619/leetcode_question/tree/master/1854-maximum-population-year) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RahulWagh619/leetcode_question/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/RahulWagh619/leetcode_question/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RahulWagh619/leetcode_question/tree/master/3242-count-elements-with-maximum-frequency) |
