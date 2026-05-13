@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RahulWagh619/leetcode_question/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RahulWagh619/leetcode_question/tree/master/0732-my-calendar-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulWagh619/leetcode_question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RahulWagh619/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
 | [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RahulWagh619/leetcode_question/tree/master/0732-my-calendar-iii) |
 | [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 ## Backtracking
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RahulWagh619/leetcode_question/tree/master/0732-my-calendar-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RahulWagh619/leetcode_question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
@@ -625,11 +628,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RahulWagh619/leetcode_question/tree/master/0732-my-calendar-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/RahulWagh619/leetcode_question/tree/master/0732-my-calendar-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
