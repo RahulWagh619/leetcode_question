@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/RahulWagh619/leetcode_question/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/RahulWagh619/leetcode_question/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
+| [1943-describe-the-painting](https://github.com/RahulWagh619/leetcode_question/tree/master/1943-describe-the-painting) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/RahulWagh619/leetcode_question/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RahulWagh619/leetcode_question/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1943-describe-the-painting](https://github.com/RahulWagh619/leetcode_question/tree/master/1943-describe-the-painting) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/2887-sort-vowels-in-a-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/RahulWagh619/leetcode_question/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulWagh619/leetcode_question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1943-describe-the-painting](https://github.com/RahulWagh619/leetcode_question/tree/master/1943-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RahulWagh619/leetcode_question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RahulWagh619/leetcode_question/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulWagh619/leetcode_question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1854-maximum-population-year](https://github.com/RahulWagh619/leetcode_question/tree/master/1854-maximum-population-year) |
 | [1895-largest-magic-square](https://github.com/RahulWagh619/leetcode_question/tree/master/1895-largest-magic-square) |
+| [1943-describe-the-painting](https://github.com/RahulWagh619/leetcode_question/tree/master/1943-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RahulWagh619/leetcode_question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RahulWagh619/leetcode_question/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/2906-construct-product-matrix) |
