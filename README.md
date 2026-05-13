@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/RahulWagh619/leetcode_question/tree/master/0611-valid-triangle-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RahulWagh619/leetcode_question/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RahulWagh619/leetcode_question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RahulWagh619/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/RahulWagh619/leetcode_question/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/RahulWagh619/leetcode_question/tree/master/0721-accounts-merge) |
+| [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/RahulWagh619/leetcode_question/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/RahulWagh619/leetcode_question/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/RahulWagh619/leetcode_question/tree/master/0854-making-a-large-island) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/RahulWagh619/leetcode_question/tree/master/0449-serialize-and-deserialize-bst) |
+| [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [2169-simple-bank-system](https://github.com/RahulWagh619/leetcode_question/tree/master/2169-simple-bank-system) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 ## Backtracking
@@ -616,9 +619,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/RahulWagh619/leetcode_question/tree/master/0729-my-calendar-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
