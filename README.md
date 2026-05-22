@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RahulWagh619/leetcode_question/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RahulWagh619/leetcode_question/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/RahulWagh619/leetcode_question/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/RahulWagh619/leetcode_question/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RahulWagh619/leetcode_question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/RahulWagh619/leetcode_question/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/RahulWagh619/leetcode_question/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Array
 |  |
 | ------- |
