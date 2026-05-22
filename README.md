@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RahulWagh619/leetcode_question/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RahulWagh619/leetcode_question/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/RahulWagh619/leetcode_question/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/RahulWagh619/leetcode_question/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/RahulWagh619/leetcode_question/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/3858-minimum-bitwise-or-from-grid) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/RahulWagh619/leetcode_question/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 | [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
 ## Dynamic Programming
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/RahulWagh619/leetcode_question/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/RahulWagh619/leetcode_question/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/3858-minimum-bitwise-or-from-grid) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/RahulWagh619/leetcode_question/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 | [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
 ## Monotonic Stack
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RahulWagh619/leetcode_question/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3905-partition-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3905-partition-string) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/RahulWagh619/leetcode_question/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Tree
 |  |
 | ------- |
@@ -660,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/RahulWagh619/leetcode_question/tree/master/0732-my-calendar-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3719-longest-balanced-subarray-i) |
+## Number Theory
+|  |
+| ------- |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/RahulWagh619/leetcode_question/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 <!---LeetCode Topics End-->
