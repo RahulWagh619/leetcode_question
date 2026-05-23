@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulWagh619/leetcode_question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RahulWagh619/leetcode_question/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RahulWagh619/leetcode_question/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RahulWagh619/leetcode_question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1854-maximum-population-year](https://github.com/RahulWagh619/leetcode_question/tree/master/1854-maximum-population-year) |
