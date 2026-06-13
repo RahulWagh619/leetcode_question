@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
+| [3838-weighted-word-mapping](https://github.com/RahulWagh619/leetcode_question/tree/master/3838-weighted-word-mapping) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/RahulWagh619/leetcode_question/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/RahulWagh619/leetcode_question/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/RahulWagh619/leetcode_question/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RahulWagh619/leetcode_question/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/RahulWagh619/leetcode_question/tree/master/3838-weighted-word-mapping) |
 | [3905-partition-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3905-partition-string) |
 ## Two Pointers
 |  |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/RahulWagh619/leetcode_question/tree/master/3838-weighted-word-mapping) |
 | [3905-partition-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3905-partition-string) |
 ## Prefix Sum
 |  |
