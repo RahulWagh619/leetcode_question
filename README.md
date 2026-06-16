@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RahulWagh619/leetcode_question/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/RahulWagh619/leetcode_question/tree/master/3797-design-spreadsheet) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RahulWagh619/leetcode_question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/3336-water-bottles-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RahulWagh619/leetcode_question/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RahulWagh619/leetcode_question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
