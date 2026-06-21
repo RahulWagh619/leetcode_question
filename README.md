@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/RahulWagh619/leetcode_question/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RahulWagh619/leetcode_question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/RahulWagh619/leetcode_question/tree/master/1753-path-with-minimum-effort) |
+| [1833-maximum-ice-cream-bars](https://github.com/RahulWagh619/leetcode_question/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1854-maximum-population-year](https://github.com/RahulWagh619/leetcode_question/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/RahulWagh619/leetcode_question/tree/master/1861-rotating-the-box) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/RahulWagh619/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RahulWagh619/leetcode_question/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RahulWagh619/leetcode_question/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/RahulWagh619/leetcode_question/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RahulWagh619/leetcode_question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/RahulWagh619/leetcode_question/tree/master/1917-maximum-average-pass-ratio) |
 | [2126-destroying-asteroids](https://github.com/RahulWagh619/leetcode_question/tree/master/2126-destroying-asteroids) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1833-maximum-ice-cream-bars](https://github.com/RahulWagh619/leetcode_question/tree/master/1833-maximum-ice-cream-bars) |
 | [1943-describe-the-painting](https://github.com/RahulWagh619/leetcode_question/tree/master/1943-describe-the-painting) |
 | [2126-destroying-asteroids](https://github.com/RahulWagh619/leetcode_question/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RahulWagh619/leetcode_question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -719,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/RahulWagh619/leetcode_question/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/RahulWagh619/leetcode_question/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
