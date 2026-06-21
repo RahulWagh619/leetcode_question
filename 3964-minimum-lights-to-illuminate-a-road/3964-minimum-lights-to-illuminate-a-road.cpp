@@ -68,6 +68,7 @@ public:
                      }
                      if(v>maxi){
                         idx=j;
+                        maxi=v;
                      }
                    }
                 }
@@ -85,6 +86,7 @@ public:
                      }
                      if(v>maxi){
                         idx=j;
+                        maxi=v;
                      }
                    }
                 }
