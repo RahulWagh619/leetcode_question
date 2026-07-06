@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/RahulWagh619/leetcode_question/tree/master/1206-corporate-flight-bookings) |
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
+| [1288-remove-covered-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/RahulWagh619/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/RahulWagh619/leetcode_question/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/RahulWagh619/leetcode_question/tree/master/1345-jump-game-iv) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/RahulWagh619/leetcode_question/tree/master/1184-car-pooling) |
 | [1253-sort-the-matrix-diagonally](https://github.com/RahulWagh619/leetcode_question/tree/master/1253-sort-the-matrix-diagonally) |
+| [1288-remove-covered-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RahulWagh619/leetcode_question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/RahulWagh619/leetcode_question/tree/master/1833-maximum-ice-cream-bars) |
 | [1943-describe-the-painting](https://github.com/RahulWagh619/leetcode_question/tree/master/1943-describe-the-painting) |
