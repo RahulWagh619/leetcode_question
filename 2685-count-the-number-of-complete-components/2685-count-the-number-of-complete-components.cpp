@@ -46,7 +46,7 @@ class DisjointSet{
         }
         int count=0;
         for(auto &i:mpp){
-            vector<int>a=i.second;
+            vector<int>&a=i.second;
             if(a.size()<=2){
                 count++;
                 continue;
@@ -58,6 +58,9 @@ class DisjointSet{
                         ans=false;
                         break;
                     }
+                }
+                if(!ans){
+                    break;
                 }
             }
             if(ans){
