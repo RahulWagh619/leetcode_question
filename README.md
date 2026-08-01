@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahulWagh619/leetcode_question/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RahulWagh619/leetcode_question/tree/master/0166-fraction-to-recurring-decimal) |
+| [0486-predict-the-winner](https://github.com/RahulWagh619/leetcode_question/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RahulWagh619/leetcode_question/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0830-largest-triangle-area](https://github.com/RahulWagh619/leetcode_question/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/1018-largest-perimeter-triangle) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RahulWagh619/leetcode_question/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RahulWagh619/leetcode_question/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/RahulWagh619/leetcode_question/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/RahulWagh619/leetcode_question/tree/master/0611-valid-triangle-number) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/RahulWagh619/leetcode_question/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RahulWagh619/leetcode_question/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/RahulWagh619/leetcode_question/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulWagh619/leetcode_question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RahulWagh619/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/RahulWagh619/leetcode_question/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3462-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 ## Counting
@@ -757,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RahulWagh619/leetcode_question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RahulWagh619/leetcode_question/tree/master/2685-count-the-number-of-complete-components) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RahulWagh619/leetcode_question/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
