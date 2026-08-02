@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RahulWagh619/leetcode_question/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/RahulWagh619/leetcode_question/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0830-largest-triangle-area](https://github.com/RahulWagh619/leetcode_question/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/RahulWagh619/leetcode_question/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RahulWagh619/leetcode_question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RahulWagh619/leetcode_question/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RahulWagh619/leetcode_question/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/RahulWagh619/leetcode_question/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/RahulWagh619/leetcode_question/tree/master/0854-making-a-large-island) |
+| [0877-stone-game](https://github.com/RahulWagh619/leetcode_question/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/RahulWagh619/leetcode_question/tree/master/0890-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RahulWagh619/leetcode_question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/RahulWagh619/leetcode_question/tree/master/1018-largest-perimeter-triangle) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RahulWagh619/leetcode_question/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/RahulWagh619/leetcode_question/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RahulWagh619/leetcode_question/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/RahulWagh619/leetcode_question/tree/master/0877-stone-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RahulWagh619/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RahulWagh619/leetcode_question/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RahulWagh619/leetcode_question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulWagh619/leetcode_question/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/RahulWagh619/leetcode_question/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/RahulWagh619/leetcode_question/tree/master/3462-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/RahulWagh619/leetcode_question/tree/master/3828-final-element-after-subarray-deletions) |
 ## Counting
