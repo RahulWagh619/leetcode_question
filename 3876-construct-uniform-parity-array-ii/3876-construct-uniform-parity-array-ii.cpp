@@ -1,18 +1,14 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        sort(nums1.begin(),nums1.end());
-        int n=nums1.size();
-        bool even=true;
-        if(nums1[0] & 1){
-            even=false;
-        }
-        if(!even)return true;
-        for(int i=0;i<n;i++){
-            if(nums1[i] & 1){
-                return false;
-            }
-        }
-        return true;
+       int n=nums1.size();
+       sort(nums1.begin(),nums1.end());
+       if(nums1[0]%2==0){
+         for(int i=1;i<n;i++){
+            if(nums1[i] & 1)return false;
+         }
+         return true;
+       }
+       return true;
     }
 };
