@@ -787,4 +787,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RahulWagh619/leetcode_question/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RahulWagh619/leetcode_question/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/RahulWagh619/leetcode_question/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
