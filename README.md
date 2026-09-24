@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/RahulWagh619/leetcode_question/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
 | [4042-minimum-operations-to-transform-array](https://github.com/RahulWagh619/leetcode_question/tree/master/4042-minimum-operations-to-transform-array) |
+| [4045-count-robot-groups](https://github.com/RahulWagh619/leetcode_question/tree/master/4045-count-robot-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RahulWagh619/leetcode_question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RahulWagh619/leetcode_question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
+| [4045-count-robot-groups](https://github.com/RahulWagh619/leetcode_question/tree/master/4045-count-robot-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RahulWagh619/leetcode_question/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RahulWagh619/leetcode_question/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3954-maximum-balanced-shipments](https://github.com/RahulWagh619/leetcode_question/tree/master/3954-maximum-balanced-shipments) |
+| [4045-count-robot-groups](https://github.com/RahulWagh619/leetcode_question/tree/master/4045-count-robot-groups) |
 ## String
 |  |
 | ------- |
